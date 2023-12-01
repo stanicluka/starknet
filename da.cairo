@@ -6,10 +6,7 @@ from starkware.cairo.common.uint256 import Uint256
 namespace IExerciseSolution {
     // Breeding function
     func is_breeder(account: felt) -> (is_approved: felt) {
-    }
-  
-  
-    }
+    
     func declare_animal(sex: felt, legs: felt, wings: felt) -> (token_id: Uint256) {
     }
     func get_animal_characteristics(token_id: Uint256) -> (sex: felt, legs: felt, wings: felt) {
