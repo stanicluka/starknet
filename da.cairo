@@ -8,7 +8,7 @@ namespace IExerciseSolution {
     func is_breeder(account: felt) -> (is_approved: felt) {
     }
   
-    func register_me_as_breeder() -> (is_added: felt) {
+  
     }
     func declare_animal(sex: felt, legs: felt, wings: felt) -> (token_id: Uint256) {
     }
